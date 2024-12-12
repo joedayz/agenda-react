@@ -12,7 +12,7 @@
     "react-bootstrap-table": "4.3.1",
     "react-dom": "18.3.1",
     "react-router": "6.28.0",
-    "react-select": "5.8.3"
+    "react-select": "5.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
